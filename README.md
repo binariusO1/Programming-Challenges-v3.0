@@ -18,7 +18,7 @@ https://i.imgur.com/MNiGqG2.jpg
     <img src="https://i.imgur.com/qTgX4hT.gif" width="640" title="hover text">]
 </p>
 
-<b>041 - Tetris (C++ 17, SMFL) </b>
+<b>141 - Tetris (C++ 17, SMFL) </b>
 <p align="center">
   <img src="https://i.imgur.com/kIHH6rc.gif" width="640" title="hover text">]
 </p>
