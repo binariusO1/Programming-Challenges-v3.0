@@ -1,11 +1,7 @@
 # Programming-Challenges-v3.0
 
+228 tasks
 https://i.imgur.com/MNiGqG2.jpg
-
-# Programming-challenges
-Simple programs/games
-C++ , python
-
 
 <b>034 - Snake (python 3.7, console) </b>
 <p align="center">
