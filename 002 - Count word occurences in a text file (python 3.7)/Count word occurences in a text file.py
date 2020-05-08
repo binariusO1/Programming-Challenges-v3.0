@@ -1,3 +1,8 @@
+# programming challenge
+# Word occurrence
+# python 3.7
+# binariusO1
+
 import re
 
 word_occ=[]
