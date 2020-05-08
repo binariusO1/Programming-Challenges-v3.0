@@ -1,5 +1,5 @@
 # programming challenge
-# 27 Fibonacci Sequence
+# Fibonacci Sequence
 # binariusO1
 
 from turtle import *    #for drawing
