@@ -1,7 +1,7 @@
 /*
 2020-04-02 binariusO1
 Programing challenge
-01 - Higher-Lower
+Higher-Lower
 */
 #include <iostream>
 #include <windows.h>	//Sleep()
