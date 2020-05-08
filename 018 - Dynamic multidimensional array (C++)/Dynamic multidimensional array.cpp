@@ -1,3 +1,10 @@
+/*
+# programming challenge
+# Dynamic multidimensional array
+# C++
+# binariusO1
+*/
+
 #include <iostream>
 
 using namespace std;
