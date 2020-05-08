@@ -1,3 +1,5 @@
+# binarius01
+# anagram checker
 
 def anagram_check(word1,word2):
     if (sorted(word1) == sorted(word2)):
