@@ -1,3 +1,10 @@
+/*
+# programming challenge
+# Natural string order sorting
+# C++ 17
+# binariusO1
+*/
+
 // Natural string order sorting (a1,a2,a10,a20 instead of a1,a10,a2,a20)
 // Natural sorting
 bool CprStringNatural(string& a, string& b)
