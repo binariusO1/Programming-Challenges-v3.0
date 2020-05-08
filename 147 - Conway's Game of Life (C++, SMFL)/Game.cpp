@@ -1,3 +1,8 @@
+/*
+Conway's Game of Life
+binarius01
+*/
+
 #include "Game.h"
 #include <iostream>
 using namespace std;
