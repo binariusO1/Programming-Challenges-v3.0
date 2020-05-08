@@ -1,5 +1,5 @@
 # programming challenge
-# Dijkstra algorithm
+# Reverse a String
 # C++
 # binariusO1
 
