@@ -1,3 +1,10 @@
+# programming challenge
+# Dijkstra algorithm
+# C++ 17
+# binariusO1
+
+
+
 #pragma once
 #include <iostream>
 #include <vector>
