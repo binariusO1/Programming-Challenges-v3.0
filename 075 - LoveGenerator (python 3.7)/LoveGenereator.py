@@ -1,3 +1,7 @@
+# programming challenge
+# Love generator
+# Python 3.7
+# binariusO1
 
 from os import system, name
 from time import sleep
