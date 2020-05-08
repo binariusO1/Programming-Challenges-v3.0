@@ -1,5 +1,5 @@
 # programming challenge
-# 05 FizzBuzz
+# FizzBuzz
 # python 3.7
 # binariusO1
 # 
