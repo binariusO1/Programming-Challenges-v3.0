@@ -1,3 +1,10 @@
+/*
+# programming challenge
+# Ulam spiral
+# C++
+# binariusO1
+*/
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include "Slider.h"
