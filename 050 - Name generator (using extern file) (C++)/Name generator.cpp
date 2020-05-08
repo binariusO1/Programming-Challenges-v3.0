@@ -1,7 +1,7 @@
 /*
 2020-04-02 binariusO1
 Programing challenge
-00 - Name generator
+Name generator
 Generator using file from Medieval 2 Total War - descr_names.txt
 */
 
