@@ -33,7 +33,7 @@ print()
 '''
 
 print("Word + occurrences:")
-for w in (zip(words, word_occ)):
+for w in (sorted(zip(words, word_occ))):
     print(str(w))
 print()
 
