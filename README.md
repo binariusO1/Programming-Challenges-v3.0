@@ -2,6 +2,7 @@
 <meta name="google-site-verification" content="7yBDBzr7-uADs9Jx1mbO1meHCt6M6fORwpC-Ey76rLQ" />
 228 tasks
 https://i.imgur.com/MNiGqG2.jpg
+--------------------------------------------------------------------------------------------------------
 
 <b>023 - Eulerian path (python 3.7, turtle) </b>
 <p align="center">
