@@ -3,6 +3,12 @@
 228 tasks
 https://i.imgur.com/MNiGqG2.jpg
 
+<b>023 - Eulerian path (python 3.7, turtle) </b>
+<p align="center">
+
+  <img src="https://i.imgur.com/APBq8iu.gif" width="640" title="hover text">]
+</p>
+
 <b>034 - Snake (python 3.7, console) </b>
 <p align="center">
   <img src="https://i.imgur.com/ukuBjsB.gif" width="640" title="hover text">]
