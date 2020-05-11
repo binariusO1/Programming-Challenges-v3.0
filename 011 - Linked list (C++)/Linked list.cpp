@@ -3,6 +3,9 @@ Programing challenge
 2020-05-10 binariusO1
 Linked-list
 With implement "The rule of three"
+
+Warning	C26444	Avoid unnamed objects with custom construction and destruction (es.84)
+
 */
 #pragma once
 
