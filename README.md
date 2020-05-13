@@ -23,7 +23,7 @@ https://i.imgur.com/MNiGqG2.jpg
 
 <b>044 - Triangular calculator (python 3.7, turtle) </b>
 <p align="center">
-https://i.imgur.com/VJRUqfT.gif
+      <img src="https://i.imgur.com/VJRUqfT.gif" width="640" title="hover text">]
 </p>
 
 <b>041 - Fibonacci Sequence (python 3.7, turtle) </b>
