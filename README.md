@@ -19,6 +19,11 @@ https://i.imgur.com/MNiGqG2.jpg
 <b>038 - Ulam Spiral (C++ 17, SMFL) </b>
 <p align="center">
   <img src="https://i.imgur.com/wwH2uxQ.gif" width="640" title="hover text">]
+
+
+<b>044 - Triangular calculator (python 3.7, turtle) </b>
+<p align="center">
+https://i.imgur.com/VJRUqfT.gif
 </p>
 
 <b>041 - Fibonacci Sequence (python 3.7, turtle) </b>
