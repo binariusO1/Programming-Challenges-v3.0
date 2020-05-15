@@ -5,7 +5,7 @@ https://i.imgur.com/MNiGqG2.jpg
 
 --------------------------------------------------------------------------------------------------------
 
-<b>008 - ASCII art character (C++, OpenCV) </b>
+<b>008 - ASCII art character (C++, OpenCV) </b> <p> https://img.shields.io/badge/"python>-"3.7"-blue </p>
 <p align="center">
   <img src="https://i.imgur.com/pWD58RR.gif" width="640" title="hover text">]
 </p>
