@@ -5,9 +5,13 @@ https://i.imgur.com/MNiGqG2.jpg
 
 --------------------------------------------------------------------------------------------------------
 
+<b>008 - ASCII art character (C++, OpenCV) </b>
+<p align="center">
+  <img src="https://i.imgur.com/pWD58RR.gif" width="640" title="hover text">]
+</p>
+
 <b>023 - Eulerian path (python 3.7, turtle) </b>
 <p align="center">
-
   <img src="https://i.imgur.com/APBq8iu.gif" width="640" title="hover text">]
 </p>
 
