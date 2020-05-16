@@ -47,6 +47,13 @@ https://i.imgur.com/MNiGqG2.jpg
     <img src="https://i.imgur.com/qTgX4hT.gif" width="640" title="hover text">
 </p>
 
+<b>115 - Sine wave generator from pseudorandom numbers </b>
+<p></p>
+<img src="https://img.shields.io/badge/python-3.7 | turtle -blue" title="hover text">
+<p align="center">
+  <img src="https://i.imgur.com/zgaXWwv.gif" width="640" title="hover text">
+</p>
+
 <b>141 - Tetris</b>
 <p></p>
 <img src="https://img.shields.io/badge/C++-17 | SFML-blue" title="hover text">
@@ -59,11 +66,4 @@ https://i.imgur.com/MNiGqG2.jpg
 <img src="https://img.shields.io/badge/C++-17 | SFML-blue" title="hover text">
 <p align="center">
   <img src="https://s6.gifyu.com/images/life.gif" width="640" title="hover text">
-</p>
-
-<b>115 - Sine wave generator from pseudorandom numbers </b>
-<p></p>
-<img src="https://img.shields.io/badge/python-3.7 | turtle -blue" title="hover text">
-<p align="center">
-  <img src="https://i.imgur.com/zgaXWwv.gif" width="640" title="hover text">
 </p>
