@@ -1,3 +1,8 @@
+# programming challenge
+# Sine wave generator from pseudorandom numbers (drawing version)
+# python 3.7
+# binariusO1
+
 import math
 import turtle
 import random
