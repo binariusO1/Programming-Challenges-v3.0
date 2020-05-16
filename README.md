@@ -65,5 +65,5 @@ https://i.imgur.com/MNiGqG2.jpg
 <p></p>
 <img src="https://img.shields.io/badge/python-3.7 | turtle -blue" title="hover text">
 <p align="center">
-  <img src="https://i.imgur.com/XtR0l36.gif" width="640" title="hover text">
+  <img src="https://i.imgur.com/zgaXWwv.gif" width="640" title="hover text">
 </p>
